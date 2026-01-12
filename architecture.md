@@ -8,7 +8,7 @@ The FusedODModel is a deep neural network designed for spatiotemporal Origin-Des
 
 ### 1. Graph Attention Layer (GAT)
 
-The GAT component captures spatial relationships between locations:
+The GAT component captures spatial relationships:
 
 - **Input**: Node features for all locations at each time step
 - **Adjacency Matrix**: Defines spatial connectivity between locations  
@@ -44,7 +44,7 @@ Key features:
 For multi-horizon forecasting:
 - Output layer generates predictions for multiple future time steps
 - Each horizon processed independently through Conv2D
-- Supports arbitrary prediction horizons (1, 6, 12, 24 hours, etc.)
+- Supports arbitrary prediction horizons (1, 6, 12, 24 hours, etc.) (in 10min steps)
 
 ## Mathematical Formulation
 
