@@ -1,6 +1,6 @@
 # FusedODModel: Spatiotemporal Origin-Destination Prediction
 
-This project implements a deep learning model for predicting Origin-Destination (OD) flows using a combination of Graph Attention Networks (GAT) and recurrent neural networks (LSTM/GRU).
+This project implements a deep learning model for predicting Origin-Destination (OD) flows using a combination of Graph Attention Networks (GAT) and recurrent neural networks (LSTM/GRU) on multiple temporal scales.
 
 ## Features
 
