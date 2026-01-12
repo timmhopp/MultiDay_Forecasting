@@ -1,4 +1,4 @@
-# FusedODModel: Multi-Scale Spatiotemporal Origin-Destination Traffic Flow Prediction
+# Multi-Scale Spatiotemporal Origin-Destination Traffic Flow Prediction
 
 This project implements a deep learning model for predicting Origin-Destination (OD) flows using a combination of Graph Attention Networks (GAT) and recurrent neural networks (LSTM/GRU) on multiple temporal scales.
 
