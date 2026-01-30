@@ -2,6 +2,10 @@
 
 This project implements a deep learning model for predicting Origin-Destination (OD) flows using a combination of Graph Attention Networks (GAT) and recurrent neural networks (LSTM/GRU) on multiple temporal scales.
 
+<a target="_blank" href="https://colab.research.google.com/drive/1AML2ES1DEqADuqc3UCj9fbwyQhyS3gsP?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code In Colab"/>
+</a>
+
 ## Features
 
 - **Spatial Learning**: Graph Attention Networks with distance-aware attention
